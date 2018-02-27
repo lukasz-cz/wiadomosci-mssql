@@ -1,2 +1,2 @@
-# wiadomosci-mssql
-Tworzenie, usuwanie i przeglÄ…danie wiadomoÅ›ci w bazie MS SQL
+# Wiadomoœci MSSQL
+Tworzenie, usuwanie i przegl¹danie wiadomoœci w bazie MS SQL
